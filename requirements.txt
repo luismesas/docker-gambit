@@ -2,4 +2,3 @@ pika
 keras
 tensorflow
 h5py
-watchdog
